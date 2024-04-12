@@ -3,7 +3,7 @@
 <img src="cat.jpg" width="200"/>   
 
 _Hello! My name is Cat! I live in Moskow._ 
-_______________________________________________________________________________
+
 
 **My job is:**
 1. to eat delicious food
